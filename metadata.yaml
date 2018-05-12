@@ -1,0 +1,42 @@
+_repo: The-Rendezvous1907_23056
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Bernstein, Herman
+    birthdate: 1876
+    deathdate: 1935
+    gutenberg_agent_id: '1006'
+    url: http://www.gutenberg.org/2009/agents/1006
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Turgenev, Ivan Sergeevich
+    aliases:
+    - Turgénieff, Iván
+    - Toergenev, Ivan
+    - Tourgueneff, Ivan
+    - Тургенев, Иван Сергеевич
+    birthdate: 1818
+    deathdate: 1883
+    gutenberg_agent_id: '922'
+    url: http://www.gutenberg.org/2009/agents/922
+    wikipedia: http://en.wikipedia.org/wiki/Ivan_Turgenev
+description: ''
+gutenberg_issued: '2007-10-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23056'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Russia -- Social life and customs -- Fiction'
+- !lcc 'PG'
+- !lcsh 'Short stories'
+title: 'The Rendezvous
+
+  1907'
+url: http://www.gutenberg.org/ebooks/23056
